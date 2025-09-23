@@ -8,14 +8,16 @@
 !pip install obspy
 ```
    
-2. 실습에 필요한 자료와 코드 다운로드 방법
+2. 지진파 위상도달시각 및 진원 결정 실습에 필요한 자료와 코드 다운로드 방법
+- 2024년 6월 12일 규모 4.8 부안지진의 지진자료에서 인공지능을 활용하여 지진파 위상도달시각을 결정
+- 단순화시킨 비선형 역산 함수를 사용해 지진의 진원을 결정하는 실습 예제
     
 ```python
 !wget https://github.com/dhsheen/KFpicker/raw/refs/heads/main/KFpicker_20230217.h5
 
-!wget https://github.com/dhsheen/AI_seismology/PhasePicking/raw/refs/heads/main/scripts/util.py
+!wget https://github.com/dhsheen/AI_seismology/raw/refs/heads/main/PhasePicking/EQLocateDL.py
 
-!wget https://github.com/1epss/AI_seismology/PhasePicking/raw/refs/heads/main/buan2024_practice.pkl
+https://github.com/dhsheen/AI_seismology/raw/refs/heads/main/PhasePicking/buan2024_practice.pkl
 
 ```
 
