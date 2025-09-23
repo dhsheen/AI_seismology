@@ -13,9 +13,9 @@
 ```python
 !wget https://github.com/dhsheen/KFpicker/raw/refs/heads/main/KFpicker_20230217.h5
 
-!wget https://github.com/1epss/JNU_seis/raw/refs/heads/main/scripts/util.py
+!wget https://github.com/dhsheen/AI_seismology/PhasePicking/raw/refs/heads/main/scripts/util.py
 
-!wget https://github.com/1epss/JNU_seis/raw/refs/heads/main/buan2024_practice.pkl
+!wget https://github.com/1epss/AI_seismology/PhasePicking/raw/refs/heads/main/buan2024_practice.pkl
 
 ```
 
