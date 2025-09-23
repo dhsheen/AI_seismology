@@ -17,7 +17,7 @@
 
 !wget https://github.com/dhsheen/AI_seismology/raw/refs/heads/main/PhasePicking/EQLocateDL.py
 
-https://github.com/dhsheen/AI_seismology/raw/refs/heads/main/PhasePicking/buan2024_practice.pkl
+!wget https://github.com/dhsheen/AI_seismology/raw/refs/heads/main/PhasePicking/buan2024_practice.pkl
 
 ```
 
